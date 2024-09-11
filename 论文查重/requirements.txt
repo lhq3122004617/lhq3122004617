@@ -1,0 +1,16 @@
+Jinja2	3.1.4	3.1.4
+MarkupSafe	2.1.5	2.1.5
+anaconda	0.0.1.1	0.0.1.1
+jieba	0.42.1	
+numpy	2.0.0	
+pandas	2.2.2	
+pip	24.0	24.2
+pip	24.2	24.2
+prettytable	3.11.0	3.11.0
+pyecharts	2.0.6	2.0.6
+python-dateutil	2.9.0.post0	2.9.0.post0
+pytz	2024.1	
+simplejson	3.19.3	
+six	1.16.0	1.16.0
+tzdata	2024.1	
+wcwidth	0.2.13	
